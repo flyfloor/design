@@ -1,4 +1,4 @@
-## Design-stuff  
+## design  
 >Icons,  backgrounds,  figures,  all design stuff
 
 ###The MIT License (MIT)
