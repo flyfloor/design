@@ -1,6 +1,8 @@
 ## Design-stuff  
 >Icons,  backgrounds,  figures,  all design stuff
 
+![monitor](monitor.png)
+
 ###The MIT License (MIT)
 
 ####Copyright (c) 2015 jerry
