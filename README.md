@@ -1,7 +1,7 @@
 ## design  
 >Icons,  backgrounds,  figures,  all design stuff
 
-###个人爱好，画的一些 icon + 背景图片(大多数用 sketch 制作), 可以用作任何用途, do what ever you desire.
+###个人爱好，画的一些 icon + 背景图片(大多数用 sketch 制作)。  
 ![monitor](png/monitor.png)
 
 ###The MIT License (MIT)
